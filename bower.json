@@ -12,5 +12,5 @@
     "web-component-tester": "^6.0.0",
     "webcomponentsjs": "webcomponents/webcomponentsjs#^1.0.0"
   },
-  "license": "https://opensource.org/licenses/MIT"
+  "license": "https://opensource.org/licenses/BSD-3-Clause"
 }
