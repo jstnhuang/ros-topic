@@ -1,10 +1,12 @@
 # \<ros-topic\>
+[![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/jstnhuang/ros-topic)
 
 A Polymer element for ROS topics in roslibjs.
+Version 1 is a hybrid element that supports Polymer 1 and Polymer 2.
 
-- [Documentation](https://jstnhuang.github.io/ros-topic/components/ros-topic/)
-- [Demo](https://jstnhuang.github.io/ros-topic/components/ros-topic/demo/index.html).
-  Note that the demo does not work on Github without a secure websocket server, since it is served over HTTPS.
+- [Documentation](https://www.webcomponents.org/element/jstnhuang/ros-topic/elements/ros-topic)
+- [Demo](https://www.webcomponents.org/element/jstnhuang/ros-topic/demo/demo/index.html).
+  Note that the demo requires a secure websocket server, since it is served over HTTPS.
 
 To install:
 ```
